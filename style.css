@@ -1,0 +1,62 @@
+
+section[data-testid="stSidebar"] .css-hf2ekg {
+    background-color: #121270; 
+    color: #ffffff; 
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+
+section[data-testid="stSidebar"] .stMultiSelect {
+    background-color: #080133;
+    color: #ffffff;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+
+section[data-testid="stSidebar"] .stMultiSelect div[data-baseweb="select"] {
+    background-color: #09a8ab;
+    color: #ffffff;
+}
+
+section[data-testid="stSidebar"] .stMultiSelect div[data-baseweb="select"] > div {
+    padding: 5px;
+    border-radius: 5px;
+}
+
+
+section[data-testid="stSidebar"] .stMultiSelect div[data-baseweb="select"] input {
+    background-color: #4B036A;
+    color: #ffffff;
+}
+
+
+section[data-testid="stSidebar"] .stMultiSelect div[data-baseweb="select"] li {
+    background-color: #4B036A;
+    color: #ffffff;
+}
+
+
+section[data-testid="stSidebar"] .stMultiSelect div[data-baseweb="select"] .st-multi-select-item {
+    background-color: #4B036A;
+    color: #ffffff;
+}
+
+
+section[data-testid="stSidebar"] .stMultiSelect div[data-baseweb="select"] .st-multi-select-item__button {
+    color: #ffffff;
+}
+
+
+section[data-testid="stSidebar"] .stMultiSelect div[data-baseweb="select"] li:hover {
+    background-color: #3e3e7f;
+    color: #ffffff;
+}
+
+
+section[data-testid="stSidebar"] h1, h2, h3, h4, h5, h6 {
+    color: #ffffff;
+}
